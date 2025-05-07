@@ -1,0 +1,5 @@
+dummy/
+*.bash*
+*.sudo_as_admin_sucessful
+.profile
+
