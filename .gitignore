@@ -1,5 +1,11 @@
-dummy/
-*.bash*
-*.sudo_as_admin_sucessful
+# Ignore specific hidden files
+.bash_history
+.bashrc
+.bash_logout
+.cache/
+.docker/
+.env
+.local/
 .profile
-
+.ssh/
+.sudo_as_admin_successful
